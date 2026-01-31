@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>동물 퀴즈 도감</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="tabs">
+            <button id="tab-quiz" class="tab-btn active">동물 퀴즈</button>
+            <button id="tab-catalog" class="tab-btn">동물 도감</button>
+        </div>
+    </header>
+
+    <main class="layout single">
+        <section class="quiz-panel" id="quiz-panel">
+            <img id="animal-image" alt="랜덤 동물" class="animal-img">
+            <div class="answer-box">
+                <input type="text" id="answer-input" placeholder="동물 이름 입력">
+                <button id="check-btn" class="btn">정답 확인</button>
+            </div>
+            <div id="result-message" class="result-message"></div>
+
+            <section id="detail-section" class="detail hidden">
+                <h2 id="detail-name"></h2>
+                <p><strong>학명:</strong> <span id="detail-scientific"></span></p>
+                <p><strong>분류:</strong> <span id="detail-category"></span></p>
+                <p><strong>서식지:</strong> <span id="detail-habitat"></span></p>
+                <p id="detail-desc"></p>
+            </section>
+        </section>
+
+        <aside class="catalog-panel hidden" id="catalog-panel">
+            <h2>동물 도감</h2>
+            <div class="filter-bar">
+                <button class="filter-btn active" data-category="all">전체</button>
+                <button class="filter-btn" data-category="포유류">포유류</button>
+                <button class="filter-btn" data-category="조류">조류</button>
+                <button class="filter-btn" data-category="파충류">파충류</button>
+            </div>
+            <div id="card-grid" class="card-grid"></div>
+        </aside>
+    </main>
+
+    <script src="main.js"></script>
+</body>
+</html>

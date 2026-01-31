@@ -1,0 +1,146 @@
+[
+  {
+    "name": "호랑이",
+    "scientific": "Panthera tigris",
+    "category": "포유류",
+    "habitat": "아시아 숲",
+    "desc": "강력한 근육과 줄무늬를 가진 최상위 포식자.",
+    "image": "images/tiger.jpg"
+  },
+  {
+    "name": "펭귄",
+    "scientific": "Aptenodytes forsteri",
+    "category": "조류",
+    "habitat": "남극 해안",
+    "desc": "헤엄에 특화된 날지 못하는 새.",
+    "image": "images/penguin.jpg"
+  },
+  {
+    "name": "악어",
+    "scientific": "Crocodylus niloticus",
+    "category": "파충류",
+    "habitat": "강과 습지",
+    "desc": "강력한 턱과 수중 잠복 사냥에 능한 파충류.",
+    "image": "images/crocodile.jpg"
+  },
+  {
+    "name": "곰",
+    "scientific": "Ursus arctos",
+    "category": "포유류",
+    "habitat": "산림 지대",
+    "desc": "잡식성으로 알려진 크고 힘센 동물.",
+    "image": "images/bear.jpg"
+  },
+  {
+    "name": "독수리",
+    "scientific": "Aquila chrysaetos",
+    "category": "조류",
+    "habitat": "산악 지대",
+    "desc": "예리한 시력을 가진 맹금류.",
+    "image": "images/eagle.jpg"
+  },
+  {
+    "name": "개",
+    "scientific": "Canis lupus familiaris",
+    "category": "포유류",
+    "habitat": "사람과 함께 생활하는 다양한 환경",
+    "desc": "사람과 가장 가까운 반려동물로 충성심이 강하다.",
+    "image": "images/dog.jpg"
+  },
+  {
+    "name": "고양이",
+    "scientific": "Felis catus",
+    "category": "포유류",
+    "habitat": "도시와 가정",
+    "desc": "유연한 몸과 예민한 감각을 가진 반려동물.",
+    "image": "images/cat.jpg"
+  },
+  {
+    "name": "얼룩말",
+    "scientific": "Equus quagga",
+    "category": "포유류",
+    "habitat": "아프리카 사바나",
+    "desc": "검은색과 흰색 줄무늬가 특징인 초식 동물.",
+    "image": "images/zebra.jpg"
+  },
+  {
+    "name": "기린",
+    "scientific": "Giraffa camelopardalis",
+    "category": "포유류",
+    "habitat": "아프리카 사바나",
+    "desc": "매우 긴 목과 다리를 가진 지상에서 가장 키가 큰 동물.",
+    "image": "images/giraffe.jpg"
+  },
+  {
+    "name": "코끼리",
+    "scientific": "Loxodonta africana",
+    "category": "포유류",
+    "habitat": "아프리카 사바나와 숲",
+    "desc": "거대한 몸집과 긴 코를 가진 동물.",
+    "image": "images/elephant.jpg"
+  },
+  {
+    "name": "하마",
+    "scientific": "Hippopotamus amphibius",
+    "category": "포유류",
+    "habitat": "강과 호수 주변",
+    "desc": "물가에서 생활하며 강한 턱을 가진 대형 초식 동물.",
+    "image": "images/hippo.jpg"
+  },
+  {
+    "name": "부엉이",
+    "scientific": "Strix aluco",
+    "category": "조류",
+    "habitat": "산림 지대",
+    "desc": "야행성 맹금류로 뛰어난 청각과 시력을 가졌다.",
+    "image": "images/owl.jpg"
+  },
+  {
+    "name": "플라밍고",
+    "scientific": "Phoenicopterus roseus",
+    "category": "조류",
+    "habitat": "호수와 습지",
+    "desc": "분홍색 깃털과 긴 다리가 특징인 새.",
+    "image": "images/flamingo.jpg"
+  },
+  {
+    "name": "앵무새",
+    "scientific": "Psittacus erithacus",
+    "category": "조류",
+    "habitat": "열대 우림",
+    "desc": "지능이 높고 사람의 말을 모방하기도 한다.",
+    "image": "images/parrot.jpg"
+  },
+  {
+    "name": "코브라",
+    "scientific": "Naja naja",
+    "category": "파충류",
+    "habitat": "사바나와 숲 가장자리",
+    "desc": "목덜미를 넓게 펼쳐 위협하는 독사.",
+    "image": "images/cobra.jpg"
+  },
+  {
+    "name": "카멜레온",
+    "scientific": "Chamaeleo calyptratus",
+    "category": "파충류",
+    "habitat": "수목 지대",
+    "desc": "보호색 변화와 독립적인 양쪽 눈 움직임이 특징.",
+    "image": "images/chameleon.jpg"
+  },
+  {
+    "name": "거북이",
+    "scientific": "Chelonia mydas",
+    "category": "파충류",
+    "habitat": "열대 해안",
+    "desc": "단단한 등딱지를 가진 파충류.",
+    "image": "images/turtle.jpg"
+  },
+  {
+    "name": "이구아나",
+    "scientific": "Iguana iguana",
+    "category": "파충류",
+    "habitat": "열대 우림",
+    "desc": "긴 꼬리와 돌기를 가진 대형 도마뱀.",
+    "image": "images/iguana.jpg"
+  }
+]
